@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.26.0.20</version>
+  <WSversion>10</WSversion>
+  <File>
+    <Name>C:\Users\Vasilisa\Desktop\program\900m\SPHERE-2_900.jpg</Name>
+    <Width>876</Width>
+    <Height>673</Height>
+  </File>
+  <Line>
+    <Caption>Line #1</Caption>
+    <LineColor>1,1,1</LineColor>
+    <BkColor>254,254,254</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">1516,1507,1696,1660,1876,1705,2056,1750,2236,1858,2425,1903,2596,1921,2776,1957,2956,1966,3136,1966</Points>
+    <Points MF="9">3316,1975,3496,1966,3676,1957,3856,1930,4027,1894,4207,1840,4387,1759,4576,1696,4747,1606,4927,1507</Points>
+    <Points MF="9">5107,1426,5287,1318,5467,1192,5647,1057,5836,1030,5845,1246,5845,1480,5863,1696,5863,1930,5872,2137</Points>
+    <Points MF="9">5881,2362,5890,2587,5953,3802,6007,5458</Points>
+  </Line>
+  <CurrentLine>0</CurrentLine>
+  <Xmin MF="9">1426,5458,0.000000e+000</Xmin>
+  <Xmax MF="9">6097,5458,2.600000e+002</Xmax>
+  <Ymin MF="9">1426,5458,0.000000e+000</Ymin>
+  <Ymax MF="9">1426,1030,1.000000e+000</Ymax>
+  <XScale>linear</XScale>
+  <YScale>linear</YScale>
+  <Position>-122,17</Position>
+  <Zoom>
+    <Scale>200.0</Scale>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>8</TraceDistance>
+    <SmoothLines>1</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <RotateAngle>0.000000</RotateAngle>
+    <dx>8.000000</dx>
+  </DigitizeArea>
+  <GridSettings>
+    <ShowGrid>0</ShowGrid>
+    <AreaType>0</AreaType>
+    <dx>15.000000</dx>
+    <dy>15.000000</dy>
+  </GridSettings>
+</GetDataWorkspace>
