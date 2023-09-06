@@ -57,36 +57,75 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
     </thead>
     <tbody>
         <tr>
-            <td rowspan=8 align="center">R0 Text</td>
-            <td rowspan=4 align="center">R1 Text</td>
-            <td rowspan=2 align="center">R2 Text A</td>
-            <td align="center">R3 Text A</td>
+            <td rowspan=8 align="center">10 PeV</td>
+            <td rowspan=4 align="center">10-20</td>
+            <td rowspan=2 align="center">500</td>
+            <td align="center">q1</td>
+            <th align="center">0.4 </th>
+            <th align="center">0.3 </th>
+            <th align="center">100 </th>
+            <th align="center">120 </th>
+            <th align="center">200 </th>
         </tr>
         <tr>
-            <td align="center">R3 Text B</td>
-            <th align="center">R3 </th>
+            <td align="center">q2</td>
+            <th align="center">0.33 </th>
+            <th align="center">0.32 </th>
+            <th align="center">100 </th>
+            <th align="center">120 </th>
+            <th align="center">200 </th>
         </tr>       
         <tr>
-            <td rowspan=2 align="center">R2 Text B</td>
-            <td align="center">R3 Text C</td>
+            <td rowspan=2 align="center">900</td>
+            <td align="center">q1</td>
+            <th align="center">0.36 </th>
+            <th align="center">0.26 </th>
+            <th align="center">80 </th>
+            <th align="center">110 </th>
+            <th align="center">170 </th>
         </tr>       
          <tr>
-            <td align="center">R3 Text D</td>
+            <td align="center">q2</td>
+            <th align="center">0.31 </th>
+            <th align="center">0.31 </th>
+            <th align="center">80 </th>
+            <th align="center">110 </th>
+            <th align="center">170 </th>
         </tr>       
         <tr>
             <td rowspan=4 align="center">R1 Text B</td>
             <td rowspan=2 align="center">R2 Text B</td>
             <td align="center">R3 Text A</td>
+           <th align="center">R3 </th>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
         </tr>
          <tr>
             <td align="center">R3 Text B</td>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
         </tr>       
         <tr>
             <td rowspan=2 align="center">R2 Text B</td>
             <td align="center">R3 Text C</td>
+           <th align="center">R3 </th>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
         </tr>       
          <tr>
             <td align="center">R3 Text D</td>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
+            <th align="center">R3 </th>
         </tr>    
 
     </tbody>
