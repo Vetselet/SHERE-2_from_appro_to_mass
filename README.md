@@ -66,7 +66,8 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
             <td align="center">q1</td>
         </tr>
         <tr>
-            <td align="center">q2</td>
+            <td rowspan=4 align="center">q2</td>
+            <td align="center">q22</td>
         </tr>
         <tr>
             <td rowspan=4 align="center">15</td>
@@ -75,6 +76,36 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
         </tr>
         <tr>
             <td align="center">q2</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=8 align="center">R0 Text</td>
+            <td rowspan=4 align="center">R1 Text</td>
+            <td rowspan=2 align="center">R2 Text A</td>
+            <td align="center">R3 Text A</td>
+        </tr>
+        <tr>
+            <td align="center">R3 Text B</td>
+        </tr>
+
+        <tr>
+            <td rowspan=4 align="center">R1 Text B</td>
+            <td rowspan=2 align="center">R2 Text B</td>
+            <td align="center">R3 Text C</td>
+        </tr>
+        <tr>
+            <td align="center">R3 Text D</td>
         </tr>
     </tbody>
 </table>
