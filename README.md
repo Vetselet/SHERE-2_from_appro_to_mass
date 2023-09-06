@@ -98,7 +98,6 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
         <tr>
             <td align="center">R3 Text B</td>
         </tr>
-
         <tr>
             <td rowspan=4 align="center">R1 Text B</td>
             <td rowspan=2 align="center">R2 Text B</td>
