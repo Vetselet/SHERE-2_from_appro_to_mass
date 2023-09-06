@@ -40,8 +40,37 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
 Параметры | pN | NFe | r1 |  r2 |  r3  |
 |----------|----------|----------|----------|----------|----------|
 | q1, h = 500   | 0.4   | 0.3   | 100    | 120   | 200   |
-| q1, h = 500   | 0.4   | 0.3   | 100    | 120   | 200   |
-| q1, h = 500   | 0.4   | 0.3   | 100    | 120   | 200   |
+| q2, h = 500   | 0.33   | 0.32   | 100    | 120   | 200   |
+| q1, h = 900   | 0.36   | 0.26   | 80    | 110   | 170   |
+| q2, h = 900   | 0.31   | 0.31   | 80    | 110   | 130   |
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4 align="center">R1 Text</td>
+            <td rowspan=2 align="center">R2 Text A</td>
+            <td align="center">R3 Text A</td>
+        </tr>
+        <tr>
+            <td align="center">R3 Text B</td>
+        </tr>
+        <tr>
+            <td rowspan=2 align="center">R2 Text B</td>
+            <td align="center">R3 Text C</td>
+        </tr>
+        <tr>
+            <td align="center">R3 Text D</td>
+        </tr>
+    </tbody>
+</table>
 
 **Если радиусы известны, то этот пункт можно пропустить.**
 
