@@ -44,49 +44,15 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
 | q1, h = 900   | 0.36   | 0.26   | 80    | 110   | 170   |
 | q2, h = 900   | 0.31   | 0.31   | 80    | 110   | 130   |
 
-
 <table>
     <thead>
         <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
-            <th>Column 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=8 align="center">10 PeV</td>
-            <td rowspan=4 align="center">10-20</td>
-            <td rowspan=2 align="center">500</td>
-            <td align="center">q1</td>
-        </tr>
-         <tr>
-            <td rowspan=4 align="center">15</td>
-            <td rowspan=2 align="center">500</td>
-            <td align="center">q1</td>
-        </tr>
-        <tr>
-            <td rowspan=4 align="center">q2</td>
-            <td align="center">q22</td>
-        </tr>
-        <tr>
-            <td rowspan=4 align="center">15</td>
-            <td rowspan=2 align="center">500</td>
-            <td align="center">q1</td>
-        </tr>
-        <tr>
-            <td align="center">q2</td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
-            <th>Column 3</th>
-            <th>Column 4</th>
+            <th>Energy</th>
+            <th>Angle</th>
+            <th>h</th>
+            <th>q1</th>
+            <th>pN</th>
+            <th>NFe</th>
         </tr>
     </thead>
     <tbody>
@@ -98,6 +64,7 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
         </tr>
         <tr>
             <td align="center">R3 Text B</td>
+            <th align="center">R3 </th>
         </tr>       
         <tr>
             <td rowspan=2 align="center">R2 Text B</td>
