@@ -87,9 +87,9 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
             <th align="center">0.31 </th>
         </tr>       
         <tr>
-            <td rowspan=4 align="center">R1 Text B</td>
-            <td rowspan=2 align="center">R2 Text B</td>
-            <td align="center">R3 Text A</td>
+            <td rowspan=4 align="center">15</td>
+            <td rowspan=2 align="center">500</td>
+            <td align="center">q1</td>
            <th align="center">R3 </th>
             <th align="center">R3 </th>
            <td rowspan=2 align="center">100</td>
@@ -97,13 +97,13 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
            <td rowspan=2 align="center">200</td>
         </tr>
          <tr>
-            <td align="center">R3 Text B</td>
+            <td align="center">q2</td>
             <th align="center">R3 </th>
             <th align="center">R3 </th>
         </tr>       
         <tr>
-            <td rowspan=2 align="center">R2 Text B</td>
-            <td align="center">R3 Text C</td>
+            <td rowspan=2 align="center">900</td>
+            <td align="center">q1</td>
            <th align="center">R3 </th>
             <th align="center">R3 </th>
            <td rowspan=2 align="center">100</td>
@@ -111,7 +111,7 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
            <td rowspan=2 align="center">200</td>
         </tr>       
          <tr>
-            <td align="center">R3 Text D</td>
+            <td align="center">q2</td>
             <th align="center">R3 </th>
             <th align="center">R3 </th>
         </tr>   
