@@ -71,7 +71,6 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
             <td align="center">q2</td>
             <th align="center">0.33 </th>
             <th align="center">0.32 </th>
-
         </tr>       
         <tr>
             <td rowspan=2 align="center">900</td>
@@ -124,8 +123,7 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
             <th align="center">R3 </th>
             <th align="center">R3 </th>
             <th align="center">R3 </th>
-        </tr>    
-
+        </tr>   
     </tbody>
 </table>
 
