@@ -64,8 +64,8 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
             <th align="center">0.4 </th>
             <th align="center">0.3 </th>
            <td rowspan=2 align="center">100</td>
-            <th align="center">120 </th>
-            <th align="center">200 </th>
+           <td rowspan=2 align="center">120</td>
+           <td rowspan=2 align="center">200</td>
         </tr>
         <tr>
             <td align="center">q2</td>
@@ -77,17 +77,14 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
             <td align="center">q1</td>
             <th align="center">0.36 </th>
             <th align="center">0.26 </th>
-            <th align="center">80 </th>
-            <th align="center">110 </th>
-            <th align="center">170 </th>
+           <td rowspan=2 align="center">80</td>
+           <td rowspan=2 align="center">110</td>
+           <td rowspan=2 align="center">170</td>
         </tr>       
          <tr>
             <td align="center">q2</td>
             <th align="center">0.31 </th>
             <th align="center">0.31 </th>
-            <th align="center">80 </th>
-            <th align="center">110 </th>
-            <th align="center">170 </th>
         </tr>       
         <tr>
             <td rowspan=4 align="center">R1 Text B</td>
@@ -95,15 +92,12 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
             <td align="center">R3 Text A</td>
            <th align="center">R3 </th>
             <th align="center">R3 </th>
-            <th align="center">R3 </th>
-            <th align="center">R3 </th>
-            <th align="center">R3 </th>
+           <td rowspan=2 align="center">100</td>
+           <td rowspan=2 align="center">120</td>
+           <td rowspan=2 align="center">200</td>
         </tr>
          <tr>
             <td align="center">R3 Text B</td>
-            <th align="center">R3 </th>
-            <th align="center">R3 </th>
-            <th align="center">R3 </th>
             <th align="center">R3 </th>
             <th align="center">R3 </th>
         </tr>       
@@ -112,15 +106,12 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
             <td align="center">R3 Text C</td>
            <th align="center">R3 </th>
             <th align="center">R3 </th>
-            <th align="center">R3 </th>
-            <th align="center">R3 </th>
-            <th align="center">R3 </th>
+           <td rowspan=2 align="center">100</td>
+           <td rowspan=2 align="center">120</td>
+           <td rowspan=2 align="center">200</td>
         </tr>       
          <tr>
             <td align="center">R3 Text D</td>
-            <th align="center">R3 </th>
-            <th align="center">R3 </th>
-            <th align="center">R3 </th>
             <th align="center">R3 </th>
             <th align="center">R3 </th>
         </tr>   
