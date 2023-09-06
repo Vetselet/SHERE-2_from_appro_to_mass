@@ -55,19 +55,21 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4 align="center">10 PeV</td>
-            <td rowspan=2 align="center">10-20 A</td>
-            <td align="center">500 A</td>
+            <td rowspan=8 align="center">10 PeV</td>
+            <td rowspan=4 align="center">10-20 A</td>
+            <td rowspan=2 align="center">500</td>
+            <td align="center">q1</td>
         </tr>
         <tr>
-            <td align="center">900 Text B</td>
+            <td align="center">q2</td>
         </tr>
         <tr>
-            <td rowspan=2 align="center">R2 Text B</td>
-            <td align="center">700</td>
+            <td rowspan=4 align="center">15</td>
+            <td rowspan=2 align="center">500</td>
+            <td align="center">q1</td>
         </tr>
         <tr>
-            <td align="center">R3 Text D</td>
+            <td align="center">q2</td>
         </tr>
     </tbody>
 </table>
