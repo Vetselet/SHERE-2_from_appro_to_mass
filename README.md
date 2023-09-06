@@ -47,6 +47,9 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
             <th>q1</th>
             <th>pN</th>
             <th>NFe</th>
+            <th>r1</th>
+            <th>r2</th>
+            <th>r3</th>
         </tr>
     </thead>
     <tbody>
