@@ -27,11 +27,11 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
 
 В качестве входных файлов выступают "mosaic_hits*". Файлы из папки "BG_files" для учета фона. Файлы из папки "aberration_data" для учета сферических аберраций.
 
-Значения первичных параметров меняются в файле "Path_to_data". 
+Значения первичных параметров меняются в файле [Path_to_data](https://github.com/Vetselet/SHERE-2_from_appro_to_mass/blob/main/Path_to_data.py) . 
 
 ## Запуск
 
-Для запуска необходимо запустить файл "Launch_appro" (аппроксимация выполняется в файле "Appro_mh_with_BG_square_with_aberr").
+Для запуска необходимо запустить файл "Launch_appro" (аппроксимация выполняется в файле [Appro_mh_with_BG_square_with_aberr](https://github.com/Vetselet/SHERE-2_from_appro_to_mass/blob/main/Appro_mh_with_BG_square_with_aberr.py)).
 
 ## Выходные результаты
 
@@ -136,7 +136,7 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
 
 ## Запуск
 
-Для запуска необходимо запустить файл "Launch_aver_mass" (оценка средней массы производится с помощью файла "optimization_area_q1&q2-Copy3-top-with_BG_h=900").
+Для запуска необходимо запустить файл [Launch_aver_mass](https://github.com/Vetselet/SHERE-2_from_appro_to_mass/blob/main/Launch_aver_mass.ipynb) (оценка средней массы производится с помощью файла [Average_mass_with_optimization_q1q2](https://github.com/Vetselet/SHERE-2_from_appro_to_mass/blob/main/Average_mass_with_optimization_q1q2.py)).
 
 ## Выходные результаты
 
