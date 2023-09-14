@@ -1,4 +1,4 @@
-# SHERE-2_from_appro_to_mass
+# SHERE-2 from original data approximation to mass
 
 *Первичные параметры*
 
