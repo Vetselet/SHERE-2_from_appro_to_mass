@@ -142,7 +142,7 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
 
 На выходе генерируются графики пронумерованные в порядке логического следования алгоритма (подробности алгоритма описаны в [дипломе](https://github.com/Vetselet/SHERE-2_from_appro_to_mass/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_%D0%9B%D0%B0%D1%82%D1%8B%D0%BF%D0%BE%D0%B2%D0%B0_2023.pdf)).
 
-Они расположены в директории "shpere-2_mass_method\Sphere-2_result\graphs\m01\q2\10PeV\10-20\900m".
+Они расположены в директории "shpere-2_mass_method\Sphere-2_result\graphs\m01\10PeV\10-20\900m".
 
 
 
