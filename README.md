@@ -31,7 +31,7 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
 
 ## Запуск
 
-Для запуска необходимо запустить файл [Launch_appro])https://github.com/Vetselet/SHERE-2_from_appro_to_mass/blob/main/Launch_appro.ipynb) (аппроксимация выполняется в файле [Appro_mh_with_BG_square_with_aberr](https://github.com/Vetselet/SHERE-2_from_appro_to_mass/blob/main/Appro_mh_with_BG_square_with_aberr.py)).
+Для запуска необходимо запустить файл [Launch_appro](https://github.com/Vetselet/SHERE-2_from_appro_to_mass/blob/main/Launch_appro.ipynb) (аппроксимация выполняется в файле [Appro_mh_with_BG_square_with_aberr](https://github.com/Vetselet/SHERE-2_from_appro_to_mass/blob/main/Appro_mh_with_BG_square_with_aberr.py)).
 
 ## Выходные результаты
 
