@@ -27,6 +27,7 @@ $$\frac{p_0^2}{(1+p_1  r+p_2  r^2+p_3  r^{1.5})^2  (1+p_4  r^s )}$$
 
 В качестве входных файлов выступают
 1. файлы ["mosaic_hits*"](https://github.com/Vetselet/SHERE-2_from_appro_to_mass/tree/main/mosaic_hits_example);
+
 В верхней строчке обозначены **номер клона** события, **высота детектора** со знаком минус, координаты **х,у** оси ливня на снегу, **номер события**. Далее идут колонны с **номером ФЭУ**, координатами **x,y,z** на мозаике, где произошло взаимодействие фотона с ФЭУ, **время** взаимодействия, направляющие косинусы;
 2. файл ["mosaic_pmt_coords.txt"](https://github.com/Vetselet/SHERE-2_from_appro_to_mass/blob/main/mosaic_pmt_coords.txt), который содержит данные координат центров ФЭУ;
 3. файлы из папки ["BG_files"](https://github.com/Vetselet/SHERE-2_from_appro_to_mass/tree/main/BG_files) для учета фона;
